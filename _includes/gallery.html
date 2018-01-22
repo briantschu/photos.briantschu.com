@@ -1,0 +1,9 @@
+{% assign folder = include.gallery.folder %}
+{% assign photos = include.gallery.photos %}
+{% for photo in photos %}
+<article>
+    <a class="thumbnail" href="images/{{ folder }}/fulls/{{ photo.filename }}.jpg" data-position="{{ photo.position }}"><img src="images/{{ folder }}/thumbs/{{ photo.filename}}.jpg" alt="{{ photo.alt }}" /></a>
+    <h2>{{ photo.title }}</h2>
+    <p>{{ photo.caption }}</p>
+</article>
+{% endfor %}

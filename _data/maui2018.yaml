@@ -1,0 +1,13 @@
+folder: maui2018
+photos:
+  - title: Diam tempus accumsan
+    caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    position: left center
+    filename: "01"
+
+  - title: Diam tempus accumsan
+    caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    position: left center
+    filename: "02"
