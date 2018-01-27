@@ -2,120 +2,96 @@ folder: maui2018
 photos:
   - title: Arrival Selfie
     caption: After a long, early morning flight and a 45 minute taxi ride we were ecstatic to finally arrive in paradise!
-    alt: Brian and Tom pose for a selfie in front of a blue-green pacific ocean.
     filename: "01"
 
   - title: He's got it :)
     caption: Tom used this photo for his first tweet after a long hiatus. He's wearing a sweatshirt his friends made.
-    alt: Tom on the beach, posing with his sweatshirt that reads "clout"
     filename: "02"
 
   - title: Sunset at Kahekili Beach
     caption: We never made it back to this beach for sunbathing, but it was a perfect first sunset. The hotel where we stayed is in the background.
-    alt: Sunset with waves flowing on the beach.
     filename: "03"
 
   - title: Warm water?
     caption: We dipped our toes in the water and it felt chilly at first but at 76 degrees, you get used to it fast.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "04"
 
   - title: One more of the first sunset...
-    caption: Brian gets a bit obsessed with sunset photos, as you'll see. This was taken from the 8th floor of one of the buildings at our resort. Ka'anapali Beach is to the left, and the island Lanai to the right.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: Brian is obsessed with sunset photos, so he's exerting self control in this album, but here's one more from the first night. This was taken from the 8th floor of one of the buildings at our resort. Ka'anapali Beach is to the left, and the island Lanai to the right.
     filename: "05"
 
   - title: Ka'anapali Beach Morning
-    caption: We couldn't wait to get out in the sun on Monday morning. After a trip to stock up on snacks at Safeway, we made it to our happy place. Brian went swimming while Tom basked in the sun.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: We couldn't wait to get out in the sun on Monday morning! After a trip by Shuttle bus to stock up on snacks at Safeway, we made it to our happy place. Brian went swimming while Tom basked in the sun.
     filename: "06"
 
   - title: Pool Afternoon
     caption: The tide was rising and Ka'anapali was disappearing so we hunkered down by the pool, where we ended up spending a lot of time during our trip.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "06-1"
 
   - title: The Lanai
-    caption: One of the most memorable moments from our trip was stargazing with a couple bottles of wine from the lanai off our room. One of the best parts of Maui's climate is the temperature only drops to about 70 degrees at night. Swoon!
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: One of the most memorable moments was stargazing with a couple bottles of wine from the lanai off our room. One of the best parts of Maui's climate is the temperature only drops to about 70 degrees at night. Swoon!
     filename: "07"
 
   - title: Open Water
     caption: We were both mesmermized by this view from the room. Still in disbelief we got to wake up to this for a few mornings.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "08"
 
   - title: Another Sunset
     caption: Dinner options at the hotel were way too expensive for the quality of food, so we walked 20 minutes along a beach path to Whaler's Village most nights for dinner. The best part is we got to watch the sunset as we strolled.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "09"
 
   - title: Dropping Behind Lanai
     caption: If that's not paradise, we don't know what is.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "10"
 
   - title: A wider Ka'anapali
-    caption: As we ventured further south, and the tide went out, we saw Ka'anapali get a bit bigger.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: As we ventured further south when the tide was out, we saw Ka'anapali get a bit bigger.
     filename: "11"
 
   - title: Sunrise Lighting up Lanai
-    caption: During the luau we went to, we learned in the ice age, Maui was connected with several surrounding islands, making up one island called Maui Nui.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: During the luau we went to, we learned that Maui is connected with several surrounding islands. During the ice age since the oceans weren't as deep, the one visible landmass was known as Maui Nui.
     filename: "12"
 
   - title: Palm Trees as Windsocks
     caption: Whenever we wanted to know if the wind was blowing, the best way to find out was looking at the palm trees. They were blowing hard along the Ka'anapali beach walk as we waited to board for our whale watching tour.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "13"
 
   - title: One more of Lanai
     caption: The pinks and greens and blues were just to beautiful to not share.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "14"
 
   - title: Whale Watching by Catamaran
-    caption: We boarded an early bird whale watching tour and depsite the wind, this catamaran was stable. We got lucky and saw at least 10 humpbacks either exhaling through their blowspouts, flipping up their tails, or in the case of one calf, doing several jumps out of the water. It was quite a show!
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: We boarded an early bird whale watching tour and depsite the wind, this catamaran was stable. We got lucky and saw at least 10 humpbacks either exhaling through their blow holes, flipping up their tails, or in the case of one calf, doing several jumps out of the water. It was quite a show!
     filename: "15"
 
   - title: Sunrise over West Maui Mountains
     caption: As we were out on the water, we caught this glimpse of the sun peeking out behind the West Maui Mountains.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "16"
 
   - title: Sandy Waves
-    caption: Brian had intended to do some snorkelling while we were there, but the wind had the water near our hotel rough and murky. Next time, we'll have to go on a snorkel tour to see the turtles and abundant underwater life.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: Brian had intended to do some snorkelling while we were there, but the wind made the water near our hotel rough and murky. Next time, we'll have to go on a snorkel tour to see the turtles, abundant underwater life, and sparkling clear water.
     filename: "17"
 
   - title: Teal Waters
     caption: It was interesting to see the color of the water change throughout the day. This teal is so gorgeous!
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "18"
 
   - title: White Caps and Clouds
-    caption: While the weather was unquestionably beautiful, we did hear that it was a lot more windy than usual, with gusts up to 50 miles per hour at some points.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: While the weather was unquestionably beautiful, we did hear that it was a lot more windy than usual with gusts up to 50 miles per hour at some points.
     filename: "19"
 
   - title: Hi!
     caption: When the second-to-last day of the trip rolled around, we realized we hadn't taken many pictures of us! Using a self timer and a tripod we captured this one :)
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "20"
 
   - title: Waves Crashing
     caption: Waves crashing at Lionel's Point.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "21"
 
   - title: Kahekili Beach
     caption: You can't see it from the photo, but sand was blowing in our faces while we captured this one.
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     filename: "22"
 
   - title: Goodbye Selfie
-    caption: We checked out of our hotel at 11am and weren't getting picked up by the taxi to head to the airport until 8pm, so we rode the shuttle into Lahaina Town for lunch, then got tipsy at happy hour in Whaler's Village. It was hard saying goodbye, but we are thankful to have spent a week in paradise!
-    alt: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    caption: We checked out of our hotel at 11am and weren't getting picked up by the taxi to head to the airport until 8pm, so we rode the shuttle into Lahaina for lunch, then got tipsy at happy hour in Whaler's Village. It was hard saying goodbye, but we are thankful to have spent a week in paradise!
     filename: "23"
